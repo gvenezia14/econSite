@@ -30,11 +30,11 @@ lrg{
   margin: 0px;
 }
 
-#firstJumbo{
+.firstJumbo{
   background-color:#528085;
 }
 
-#secondJumbo{
+.secondJumbo{
   background-color: #e3ddcf;
 }
 
@@ -75,4 +75,12 @@ lrg{
  .table.sideBar{
    padding-top: 20px;
    font-family: serif;
+ }
+
+ thead{
+   background-color: #f0eadd;
+ }
+
+ .jumbotron .h1{
+   color: #fffffc;
  }
